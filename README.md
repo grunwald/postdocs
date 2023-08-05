@@ -1,6 +1,6 @@
 # Several joint postdoctoral scholar positions are available in the Jeff Chang, Jessie Uehling and Nik Grunwald labs at Oregon State University
 
-Candidates intersted please download the announcements here:
+Candidates interested please download the announcements here:
 
 ![Chang & Grunwald lab group](https://github.com/grunwald/postdocs/blob/main/IMG_6197.png)
 
