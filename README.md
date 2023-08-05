@@ -8,4 +8,6 @@ Candidates intersted please download the announcements here:
 
 [Uehling/Grunwald postdoc  position: Population and phylogenomics of fungi and oomycetes](https://github.com/grunwald/postdocs/blob/main/PDs_ad_Uehling-Grunwald-2023.pdf)
 
-![Dept. Botany and Plant PAthology labs](https://github.com/grunwald/postdocs/blob/main/Screen%20Shot%202023-08-05%20at%208.37.35%20AM.png)
+![Dept. Botany and Plant Pathology labs](https://github.com/grunwald/postdocs/blob/main/Screen%20Shot%202023-08-05%20at%208.37.35%20AM.png)
+
+![Dept. Botany and Plant Pathology labs](https://github.com/grunwald/postdocs/blob/main/Screen%20Shot%202023-08-05%20at%208.37.44%20AM.png)
