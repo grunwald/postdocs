@@ -1,6 +1,8 @@
-# Several joint postdoc positions are available in the Jeff Chang, Jessie Uehling and Nik Grunwald labs at Oregon State University
+# Several joint postdoctoral scholar positions are available in the Jeff Chang, Jessie Uehling and Nik Grunwald labs at Oregon State University
 
-Candidates intersted in three postdoctoal positions please download the announcements here:
+Candidates intersted please download the announcements here:
+
+![Chang lab](relative%20path/to/img.jpg?raw=true "Title")
 
 [Chang/Grunwald postdoc  positions: Molecular plant-microbe interactions I and II](https://github.com/grunwald/postdocs/blob/main/PD_position_Chang_Grunwald.pdf)
 
