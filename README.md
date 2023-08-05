@@ -2,7 +2,7 @@
 
 Candidates intersted please download the announcements here:
 
-![Chang lab](relative%20path/to/img.jpg?raw=true "Title")
+![Chang & Grunwald lab group](https://github.com/grunwald/postdocs/blob/main/IMG_6197.png)
 
 [Chang/Grunwald postdoc  positions: Molecular plant-microbe interactions I and II](https://github.com/grunwald/postdocs/blob/main/PD_position_Chang_Grunwald.pdf)
 
