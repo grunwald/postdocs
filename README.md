@@ -10,4 +10,4 @@ Candidates intersted please download the announcements here:
 
 ![Dept. Botany and Plant Pathology labs](https://github.com/grunwald/postdocs/blob/main/Screen%20Shot%202023-08-05%20at%208.37.35%20AM.png)
 
-![Dept. Botany and Plant Pathology labs](https://github.com/grunwald/postdocs/blob/main/Screen%20Shot%202023-08-05%20at%208.37.44%20AM.png)
+![Cordley building under renovation housing the Dept. Botany and Plant Pathology](https://github.com/grunwald/postdocs/blob/main/Screen%20Shot%202023-08-05%20at%208.37.44%20AM.png)
