@@ -4,7 +4,7 @@ Candidates interested please download the announcements here:
 
 ![Chang & Grunwald lab group](https://github.com/grunwald/postdocs/blob/main/IMG_6197.png)
 
-[Grunwald USDA postdoc  position: computational pipelines for pathogen biosurveillance in agriculture]([https://github.com/grunwald/postdocs/blob/main/USDA postdoc Grunwald lab 2024.pdf](https://github.com/grunwald/postdocs/blob/main/USDA%20postdoc%20Grunwald%20lab%202024.pdf))
+[Grunwald USDA postdoc  position: computational pipeline for pathogen biosurveillance in agriculture](https://github.com/grunwald/postdocs/blob/main/USDA%20postdoc%20Grunwald%20lab%202024.pdf))
 
 [Chang/Grunwald postdoc  positions: Molecular plant-microbe interactions I and II](https://github.com/grunwald/postdocs/blob/main/PD_position_Chang_Grunwald.pdf)
 
