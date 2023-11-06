@@ -6,8 +6,6 @@ Candidates interested please download the announcements here:
 
 [Grunwald USDA postdoc  position: computational pipeline for pathogen biosurveillance in agriculture](https://github.com/grunwald/postdocs/blob/main/USDA%20postdoc%20Grunwald%20lab%202024.pdf))
 
-[Chang/Grunwald postdoc  positions: Molecular plant-microbe interactions I and II](https://github.com/grunwald/postdocs/blob/main/PD_position_Chang_Grunwald.pdf)
-
 [Uehling/Grunwald postdoc  position: Population and phylogenomics of fungi and oomycetes](https://github.com/grunwald/postdocs/blob/main/PDs_ad_Uehling-Grunwald-2023.pdf)
 
 ![Dept. Botany and Plant Pathology labs](https://github.com/grunwald/postdocs/blob/main/Screen%20Shot%202023-08-05%20at%208.37.35%20AM.png)
